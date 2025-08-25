@@ -4,5 +4,5 @@ theme: minima
 email: liulooklandscape@outlook.com
 
 # 非常重要！这决定了URL的生成方式
-baseurl: "" # 如果你的站点地址是 username.github.io/repo-name，这里就填 "/repo-name"。如果是自定义域名，通常为空。
+baseurl: "/lines" # 如果你的站点地址是 username.github.io/repo-name，这里就填 "/repo-name"。如果是自定义域名，通常为空。
 url: "https://liu-sunset.github.io" # 或者你的自定义域名
