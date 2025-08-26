@@ -1,6 +1,6 @@
 title: lines
 description: 韩剧台词网站
-# theme: jekyll-theme-modernist
+theme: jekyll-theme-modernist
 email: liulooklandscape@outlook.com
 
 # 非常重要！这决定了URL的生成方式
@@ -10,18 +10,3 @@ baseurl: "/lines"
 
 # 你的 GitHub Pages 域名
 url: "https://liu-sunset.github.io"
-
-
-# 添加remote_theme（以Minimal Mistakes为例）
-remote_theme: mmistakes/minimal-mistakes
-
-# 确保启用远程主题插件
-plugins:
-  - jekyll-remote-theme
-
-# 主题特定配置（参考主题文档）
-minimal_mistakes:
-  skin: default
-  author:
-    name: "sunsetnoise"
-    avatar: ""
